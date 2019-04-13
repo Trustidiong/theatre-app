@@ -1,0 +1,81 @@
+#wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+#title {
+    height: 60px;
+    width: 100%;
+    background-color: purple;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: PaleTurquoise;
+    padding-top: 5px;
+}
+
+#stage {
+    height: 60px;
+    width: 600px;
+    background-color: wheat;
+    float: left;
+    padding: 25px;
+    text-align: center;
+}
+
+#stage1 {
+    height: 60px;
+    width: 600px;
+    background-color: wheat;
+    padding: 25px;
+    text-align: center;
+    float: right;
+}
+
+#seats {
+    height: 580px;
+    width: 600px;
+    background-color: purple;
+    float: left;
+    padding: 25px;
+}
+
+#seats1 {
+    height: 580px;
+    width: 600px;
+    background-color: purple;
+    float: right;
+    padding: 25px
+}
+
+#seater {
+    height: 50px;
+    width: 50px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    background-color: PaleTurquoise;
+    float: left;
+    border-radius: 50%;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+table {
+    height: 80%;
+    width: 90%;
+    text-align: center;
+}
+
+#buttonDiv {
+    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-left: 35%;
+    padding-top: 10px;
+}
